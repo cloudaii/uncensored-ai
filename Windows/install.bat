@@ -1,9 +1,9 @@
 @echo off
-title THEVOIDKERNEL - PORTABLE UNCENSORED AI SETUP
+title UNLOCKED - UNCENSORED AI SETUP
 color 0E
 
 echo ===================================================
-echo                  THEVOID-AI
+echo                  UNLOCKED-AI
 echo ===================================================
 echo.
 echo  This will download and configure AI models onto
