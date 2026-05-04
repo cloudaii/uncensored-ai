@@ -1,6 +1,6 @@
 #!/bin/bash
 # ================================================================
-#  THEVOIDKERNEL PORTABLE UNCENSORED AI - Mac Setup Script
+#  UNLOCKED UNCENSORED AI - Mac Setup Script
 # ================================================================
 #  Multi-Model Edition: Choose one or more AI models to install!
 #  Supports preset models + custom HuggingFace GGUF downloads.
