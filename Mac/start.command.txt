@@ -4,7 +4,7 @@
 # ===================================================
 
 echo "==================================================="
-echo "    THEVOIDKERNEL Portable AI - Fast Web Chat Mode (Mac)"
+echo "    UNLOCKED Portable AI - Fast Web Chat Mode (Mac)"
 echo "==================================================="
 echo ""
 echo "  Launches the AI engine + browser chat UI."
