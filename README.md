@@ -20,18 +20,18 @@ With a unified architecture, you can initialize your AI models once and choose t
 
 • **Hardware Accelerated**: Uses a custom-compiled Ollama engine under the hood, natively capitalizing on AVX CPU instructions, NVIDIA CUDA, or Apple Metal GPU accelerators dynamically when plugged into different host machines.
 
-**Android Native (Termux)**
+# Android Native (Termux)
 
 Run the AI engine directly on your Android phone or tablet — no PC required!
 
-**Requirements**
+# Requirements
 
 • Termux installed from F-Droid (NOT the Play     Store — it's outdated)
 • 6 GB+ RAM Only the 2B model runs well on 6      GB devices.
 • WiFi or mobile data for initial setup           (downloading engine + models)
 • ARM64 processor (virtually all modern Android   phones/tablets)
 
-**Setup**
+# Setup
 
 1. Copy the USB-Uncensored-LLM folder to your      Android device (via USB OTG, file transfer,     or git clone)
 2. Open Termux and navigate to the project         folder
