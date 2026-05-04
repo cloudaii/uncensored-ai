@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # ===================================================
-#  THEVOIDKERNEL Portable AI - Android (Llama.cpp Engine)
+#  UNLOCKED Portable AI - Android (Llama.cpp Engine)
 # ===================================================
 
 echo "==================================================="
-echo "    THEVOIDKERNEL Portable AI - Android Native Launcher"
+echo "    UNLOCKED Portable AI - Android Native Launcher"
 echo "==================================================="
 echo ""
 echo "  Launches the natively compiled AI engine"
