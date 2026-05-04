@@ -48,7 +48,7 @@ Run the AI engine directly on your Android phone or tablet — no PC required!
 
 **clone repo**
 ```
-https://github.com/cloudaii/uncensored-ai.git
+git clone https://github.com/cloudaii/uncensored-ai.git
 ```
 **Nevigate to cloned repo**
 
