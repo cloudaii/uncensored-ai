@@ -1,9 +1,9 @@
 @echo off
-title THEVOIDKERNEL Portable AI - Fast Web Chat
+title UNLOCKED Portable AI - Fast Web Chat
 color 0B
 
 echo ===================================================
-echo     THEVOID AI - Fast Web Chat Mode
+echo     UNLOCKED AI - Fast Web Chat Mode
 echo ===================================================
 echo.
 echo  Launches the AI engine + browser chat UI.
