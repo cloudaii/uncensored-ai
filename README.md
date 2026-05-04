@@ -7,9 +7,17 @@ With a unified architecture, you can initialize your AI models once and choose t
 # Features 
 
 • **Zero Dependency Setup**: Ships with portable Python and isolated engine binaries. No system permissions, registry edits, or package managers required.
+
+
 • **Cross-Platform Interoperability**: Uses a intelligent Shared volume system — download your 5GB+ AI models once, and use them natively on Windows, macOS, and Linux without duplication.
+
+
 • **Censorship Free**: Integrates cutting-edge ablative and heretic fine-tuned models for completely unfiltered interactions.
+
+
 • **Network Proxied UI**: The custom Python HTTP server instantly serves a blazing-fast dark mode UI. You can access the AI from your phone or tablet on the same WiFi network without complex CORS configuration.
+
+
 • **Hardware Accelerated**: Uses a custom-compiled Ollama engine under the hood, natively capitalizing on AVX CPU instructions, NVIDIA CUDA, or Apple Metal GPU accelerators dynamically when plugged into different host machines.
 
 **Android Native (Termux)**
