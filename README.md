@@ -53,7 +53,7 @@ git clone https://github.com/cloudaii/uncensored-ai.git
 **Nevigate to cloned repo**
 
 ```
-cd thevoid-uncensored-AI
+cd uncensored-ai
 ```
 **Install Uncensored AI LLM**
 
