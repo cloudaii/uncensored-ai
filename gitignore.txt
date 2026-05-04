@@ -1,0 +1,20 @@
+# Ignore heavy AI models
+Shared/models/*.gguf
+Shared/models/ollama_data/
+Shared/models/installed-models.txt
+Shared/models/Modelfile*
+Shared/.ollama-runtime
+Shared/models
+
+# Ignore private chat history and local settings
+Shared/chat_data/
+
+# Ignore downloaded binaries and runtimes
+Shared/python/
+Shared/bin/
+Shared/*.zip
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+.DS_Store
