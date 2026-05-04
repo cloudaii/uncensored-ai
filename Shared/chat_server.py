@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-THEVOIDKERNEL Portable AI Chat Server
+UNLOCKED Portable AI Chat Server
 =======================
 A zero-dependency Python HTTP server that:
   1. Serves the FastChatUI.html web interface
